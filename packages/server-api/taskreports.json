@@ -1,0 +1,53 @@
+[
+    {
+      "Employee": "John Doe",
+      "Task_Id": "TASK001",
+      "AssignedTask": "Develop the login module",
+      "AssignedBy": "Jane Smith",
+      "AssignedDate": "2023-10-01T09:00:00.000Z",
+      "DueDate": "2023-10-10T17:00:00.000Z",
+      "CompletedDate": "2023-10-12T16:30:00.000Z",
+      "Delay": "2 days"
+    },
+    {
+      "Employee": "Emily Johnson",
+      "Task_Id": "TASK002",
+      "AssignedTask": "Design the dashboard UI",
+      "AssignedBy": "Michael Brown",
+      "AssignedDate": "2023-09-15T10:00:00.000Z",
+      "DueDate": "2023-09-30T18:00:00.000Z",
+      "CompletedDate": "2023-09-28T15:00:00.000Z",
+      "Delay": "0 days"
+    },
+    {
+      "Employee": "Chris Evans",
+      "Task_Id": "TASK003",
+      "AssignedTask": "Prepare the project documentation",
+      "AssignedBy": "Sarah Wilson",
+      "AssignedDate": "2023-11-01T08:30:00.000Z",
+      "DueDate": "2023-11-15T17:00:00.000Z",
+      "CompletedDate": "2023-11-16T14:00:00.000Z",
+      "Delay": "1 day"
+    },
+    {
+      "Employee": "Sophia Davis",
+      "Task_Id": "TASK004",
+      "AssignedTask": "Set up CI/CD pipeline",
+      "AssignedBy": "Robert Taylor",
+      "AssignedDate": "2023-10-05T09:15:00.000Z",
+      "DueDate": "2023-10-20T17:00:00.000Z",
+      "CompletedDate": "2023-10-18T13:45:00.000Z",
+      "Delay": "0 days"
+    },
+    {
+      "Employee": "Liam Martinez",
+      "Task_Id": "TASK005",
+      "AssignedTask": "Conduct performance testing",
+      "AssignedBy": "Daniel Hernandez",
+      "AssignedDate": "2023-09-25T11:00:00.000Z",
+      "DueDate": "2023-10-05T16:00:00.000Z",
+      "CompletedDate": "2023-10-06T15:00:00.000Z",
+      "Delay": "1 day"
+    }
+  ]
+  

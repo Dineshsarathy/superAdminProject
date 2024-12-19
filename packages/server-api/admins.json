@@ -1,0 +1,52 @@
+[
+    {
+        "Admin_id": "A1001",
+        "Admin_name": "Alice Johnson",
+        "Password": "securePassword123",
+        "Hosted_sites": 5,
+        "Email_id": "alice.johnson@example.com",
+        "phone_number": "+12345678901",
+        "Admin_status": true,
+        "Address": "123 Elm Street, Springfield, IL"
+    },
+    {
+        "Admin_id": "A1002",
+        "Admin_name": "Bob Smith",
+        "Password": "anotherSecurePassword456",
+        "Hosted_sites": 2,
+        "Email_id": "bob.smith@example.com",
+        "phone_number": "(123) 555-6789",
+        "Admin_status": false,
+        "Address": "456 Maple Avenue, Anytown, TX"
+    },
+    {
+        "Admin_id": "A1003",
+        "Admin_name": "Carla Williams",
+        "Password": "safePassword789",
+        "Hosted_sites": 10,
+        "Email_id": "carla.williams@example.com",
+        "phone_number": "123363663564",
+        "Admin_status": true,
+        "Address": "789 Oak Road, Metropolis, NY"
+    },
+    {
+        "Admin_id": "A1004",
+        "Admin_name": "Horus Luperical",
+        "Password": "safePassword789",
+        "Hosted_sites": 500,
+        "Email_id": "lunawolf@example.com",
+        "phone_number": "344343455534",
+        "Admin_status": true,
+        "Address": "cathonia, near terra"
+    },
+    {
+        "Admin_id": "A1005",
+        "Admin_name": "Corvus Corax",
+        "Password": "safePassword789",
+        "Hosted_sites": 500,
+        "Email_id": "ravenguard@example.com",
+        "phone_number": "234234235t632",
+        "Admin_status": true,
+        "Address": "Deliverance Moon, Forge World"
+    }
+]

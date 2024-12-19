@@ -1,0 +1,42 @@
+[
+    {
+        "Template_Id": "TEMP001",
+        "Admin_Id": "ADM1001",
+        "Sub_Id": "SUB5001",
+        "Paid_Date": "2023-11-01T10:00:00Z",
+        "Due_Date": "2023-12-01T10:00:00Z",
+        "Plan_Amount": 199.99
+    },
+    {
+        "Template_Id": "TEMP002",
+        "Admin_Id": "ADM1002",
+        "Sub_Id": "SUB5002",
+        "Paid_Date": "2023-11-05T12:30:00Z",
+        "Due_Date": "2023-12-05T12:30:00Z",
+        "Plan_Amount": 299.99
+    },
+    {
+        "Template_Id": "TEMP003",
+        "Admin_Id": "ADM1003",
+        "Sub_Id": "SUB5003",
+        "Paid_Date": "2023-11-10T09:00:00Z",
+        "Due_Date": "2023-12-10T09:00:00Z",
+        "Plan_Amount": 149.99
+    },
+    {
+        "Template_Id": "TEMP004",
+        "Admin_Id": "ADM1004",
+        "Sub_Id": "SUB5004",
+        "Paid_Date": "2023-11-12T15:45:00Z",
+        "Due_Date": "2023-12-12T15:45:00Z",
+        "Plan_Amount": 399.99
+    },
+    {
+        "Template_Id": "TEMP005",
+        "Admin_Id": "ADM1005",
+        "Sub_Id": "SUB5005",
+        "Paid_Date": "2023-11-15T08:15:00Z",
+        "Due_Date": "2023-12-15T08:15:00Z",
+        "Plan_Amount": 249.99
+    }
+]

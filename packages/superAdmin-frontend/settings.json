@@ -1,0 +1,6 @@
+{
+    "json.schemas": [{
+    "fileMatch": ["lerna.json"],
+    "url": "./node_modules/lerna/schemas/lerna-schema.json"
+  }]
+}

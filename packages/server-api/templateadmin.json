@@ -1,0 +1,53 @@
+[
+    {
+      "Admin_id": "A001",
+      "Admin_name": "Sarah Johnson",
+      "Password": "AdminPass123!",
+      "Hosted_sites": 5,
+      "Email_id": "sarah.johnson@example.com",
+      "phone_number": "+1-800-555-1234",
+      "Admin_status": true,
+      "Address": "123 Main St, New York, NY, USA"
+    },
+    {
+      "Admin_id": "A002",
+      "Admin_name": "David Miller",
+      "Password": "SecureAdmin456#",
+      "Hosted_sites": 12,
+      "Email_id": "david.miller@example.org",
+      "phone_number": "+44-20-7946-0555",
+      "Admin_status": false,
+      "Address": "221B Baker St, London, UK"
+    },
+    {
+      "Admin_id": "A003",
+      "Admin_name": "Emily Brown",
+      "Password": "Emily@789!",
+      "Hosted_sites": 8,
+      "Email_id": "emily.brown@company.com",
+      "phone_number": "+91-98765-12345",
+      "Admin_status": true,
+      "Address": "456 Residency Rd, Bangalore, India"
+    },
+    {
+      "Admin_id": "A004",
+      "Admin_name": "John Carter",
+      "Password": "JohnCarter#2023",
+      "Hosted_sites": 0,
+      "Email_id": "john.carter@webadmin.net",
+      "phone_number": "+33-1-22-33-44-55",
+      "Admin_status": true,
+      "Address": "10 Rue de Rivoli, Paris, France"
+    },
+    {
+      "Admin_id": "A005",
+      "Admin_name": "Olivia Wilson",
+      "Password": "Olivia123!",
+      "Hosted_sites": 20,
+      "Email_id": "olivia.wilson@example.co.uk",
+      "phone_number": "+61-2-9876-5432",
+      "Admin_status": false,
+      "Address": "789 Elm St, Sydney, Australia"
+    }
+  ]
+  

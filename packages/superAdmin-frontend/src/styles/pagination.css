@@ -1,0 +1,60 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+  }
+  
+  .pagination button {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    border-radius: 10px !important;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .pagination button:disabled {
+    background-color: #c6c6c6; /* Disabled state with grey color */
+    cursor: not-allowed;
+  }
+  
+  .pagination button:hover {
+    background-color: #45a049 !important; /* Darker green on hover */
+    
+  }
+  
+  .pagination span {
+    font-size: 16px;
+    margin: 0 10px;
+    color: #333;
+  }
+  
+  .pagination button:first-of-type {
+    background-color: #FF6347; /* Red for "Previous" button */
+  }
+  
+  .pagination button:last-of-type {
+    background-color: #FF6347; /* Red for "Next" button */
+  }
+  
+  .pagination button:first-of-type:hover,
+  .pagination button:last-of-type:hover {
+    background-color: #FF4500; /* Darker red for hover effect */
+  }
+  
+  .pagination .icon {
+    font-size: 20px;
+    margin-right: 8px;
+  }
+  

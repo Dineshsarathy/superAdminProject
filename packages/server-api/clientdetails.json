@@ -1,0 +1,57 @@
+[
+    {
+        "Client_id": "C001",
+        "Client_name": "John Doe",
+        "Client_phone": "+1-123-456-7890",
+        "Client_emailid": "john.doe@example.com",
+        "HostedDate": "2023-01-15T10:00:00Z",
+        "RenewalDate": "2024-01-15T10:00:00Z",
+        "Domain": "example.com",
+        "Client_status": true,
+        "Temp_Admin": "A1001"
+    },
+    {
+        "Client_id": "C002",
+        "Client_name": "Jane Smith",
+        "Client_phone": "+44 207 123 4567",
+        "Client_emailid": "jane.smith@example.co.uk",
+        "HostedDate": "2023-05-10T12:00:00Z",
+        "RenewalDate": "2024-05-10T12:00:00Z",
+        "Domain": "smithsolutions.co.uk",
+        "Client_status": false,
+        "Temp_Admin": "A1002"
+    },
+    {
+        "Client_id": "C003",
+        "Client_name": "Acme Corporation",
+        "Client_phone": "+91-9876543210",
+        "Client_emailid": "info@acmecorp.in",
+        "HostedDate": "2023-03-20T09:30:00Z",
+        "RenewalDate": "2024-03-20T09:30:00Z",
+        "Domain": "acmecorp.in",
+        "Client_status": true,
+        "Temp_Admin": "A1003"
+    },
+    {
+        "Client_id": "C004",
+        "Client_name": "Global Ventures",
+        "Client_phone": "+61 3 9876 5432",
+        "Client_emailid": "contact@globalventures.au",
+        "HostedDate": "2023-06-01T11:00:00Z",
+        "RenewalDate": "2024-06-01T11:00:00Z",
+        "Domain": "globalventures.au",
+        "Client_status": true,
+        "Temp_Admin": "A1004"
+    },
+    {
+        "Client_id": "C005",
+        "Client_name": "Tech Innovators",
+        "Client_phone": "+81-80-1234-5678",
+        "Client_emailid": "support@techinnovators.jp",
+        "HostedDate": "2023-08-15T14:00:00Z",
+        "RenewalDate": "2024-08-15T14:00:00Z",
+        "Domain": "techinnovators.jp",
+        "Client_status": false,
+        "Temp_Admin": "A1005"
+    }
+]

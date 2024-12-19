@@ -1,0 +1,50 @@
+[
+    {
+        "Assigned_Task": "Develop authentication module",
+        "Emp_Id": "E12345",
+        "Task_Date": "2023-11-01T10:00:00Z",
+        "Finished_Task": "2023-11-02T18:00:00Z",
+        "Work_Rating": "Excellent",
+        "Salary_Level": "High"
+    },
+    {
+        "Assigned_Task": "Fix bug in payment gateway",
+        "Emp_Id": "E12346",
+        "Task_Date": "2023-11-03T09:30:00Z",
+        "Finished_Task": "2023-11-03T14:00:00Z",
+        "Work_Rating": "Good",
+        "Salary_Level": "Medium"
+    },
+    {
+        "Assigned_Task": "Create dashboard layout",
+        "Emp_Id": "E12347",
+        "Task_Date": "2023-11-04T08:45:00Z",
+        "Finished_Task": "2023-11-05T17:30:00Z",
+        "Work_Rating": "Satisfactory",
+        "Salary_Level": "Medium"
+    },
+    {
+        "Assigned_Task": "Optimize database queries",
+        "Emp_Id": "E12345",
+        "Task_Date": "2023-11-06T11:00:00Z",
+        "Finished_Task": "2023-11-06T19:00:00Z",
+        "Work_Rating": "Excellent",
+        "Salary_Level": "High"
+    },
+    {
+        "Assigned_Task": "Implement caching mechanism",
+        "Emp_Id": "E12346",
+        "Task_Date": "2023-11-07T12:00:00Z",
+        "Finished_Task": "2023-11-08T15:00:00Z",
+        "Work_Rating": "Very Good",
+        "Salary_Level": "High"
+    },
+    {
+        "Assigned_Task": "Conduct code review for team",
+        "Emp_Id": "E12345",
+        "Task_Date": "2023-11-09T13:30:00Z",
+        "Finished_Task": "2023-11-09T17:00:00Z",
+        "Work_Rating": "Good",
+        "Salary_Level": "Low"
+    }
+]

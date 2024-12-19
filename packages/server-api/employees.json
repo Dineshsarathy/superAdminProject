@@ -1,0 +1,57 @@
+[
+  {
+    "Employee_id": "E001",
+    "Employee_name": "Alice Smith",
+    "Password": "hashedPassword123",
+    "Phone_number": "+1234567890",
+    "Email_id": "alice.smith@example.com",
+    "Employee_status": false,
+    "usePort": 3001,
+    "Mac_address": "00:1B:44:11:3A:B1",
+    "employeeUrl": "/legion"
+  },
+  {
+    "Employee_id": "E002",
+    "Employee_name": "Bob Johnson",
+    "Password": "securePass456",
+    "Phone_number": "+1987654321",
+    "Email_id": "bob.johnson@example.com",
+    "Employee_status": true,
+    "usePort": 3002,
+    "Mac_address": "00:1B:44:11:3A:B2",
+    "employeeUrl": "/vanguard"
+  },
+  {
+    "Employee_id": "E003",
+    "Employee_name": "Charlie Brown",
+    "Password": "password789hash",
+    "Phone_number": "+1231231234",
+    "Email_id": "charlie.brown@example.com",
+    "Employee_status": false,
+    "usePort": 3003,
+    "Mac_address": "00:1B:44:11:3A:B3",
+    "employeeUrl": "/sentinel"
+  },
+  {
+    "Employee_id": "E004",
+    "Employee_name": "Diana Prince",
+    "Password": "wonderHash2024",
+    "Phone_number": "+1112223333",
+    "Email_id": "diana.prince@example.com",
+    "Employee_status": true,
+    "usePort": 3004,
+    "Mac_address": "00:1B:44:11:3A:B4",
+    "employeeUrl": "/shield"
+  },
+  {
+    "Employee_id": "E005",
+    "Employee_name": "Ethan Hunt",
+    "Password": "missionImpossible123",
+    "Phone_number": "+5556667777",
+    "Email_id": "ethan.hunt@example.com",
+    "Employee_status": false,
+    "usePort": 3005,
+    "Mac_address": "00:1B:44:11:3A:B5",
+    "employeeUrl": "/stealth"
+  }
+]

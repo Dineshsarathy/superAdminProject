@@ -1,0 +1,50 @@
+[
+  {
+    "Temp_id": "TEMP001",
+    "Temp_name": "Marketing Template",
+    "Temp_category": "Marketing",
+    "Temp_status": "Active",
+    "CreatedBy": ["63c9fb88e0f8f2e9c8a1f1b3"],
+    "TestedBy": "John Doe",
+    "Approval_status": "Pending",
+    "FilePath": "./Zipped_templates/Css-Template--main.zip",
+    "usePort": 3001,
+    "templateUrl": "./Preview_Templates/Css-Template--main/Template/index.html",
+    "CompletedDate": "2024-11-25T14:23:00.000Z",
+    "ApprovedDate": "2024-11-26T09:12:00.000Z",
+    "createdAt": "2024-11-20T10:00:00.000Z",
+    "updatedAt": "2024-11-26T09:15:00.000Z"
+  },
+  {
+    "Temp_id": "TEMP002",
+    "Temp_name": "Sales Template",
+    "Temp_category": "Sales",
+    "Temp_status": "Inactive",
+    "CreatedBy": ["63c9fb88e0f8f2e9c8a1f1b4", "63c9fb88e0f8f2e9c8a1f1b5"],
+    "TestedBy": "Jane Smith",
+    "Approval_status": "Pending",
+    "FilePath": "./Zipped_templates/Css-Template--main.zip",
+    "templateUrl": "./Preview_Templates/Css-Template--main/Template/index.html",
+    "usePort": 3001,
+    "CompletedDate": "2024-11-24T11:45:00.000Z",
+    "ApprovedDate": "2024-11-26T10:30:00.000Z",
+    "createdAt": "2024-11-19T08:30:00.000Z",
+    "updatedAt": "2024-11-25T15:45:00.000Z"
+  },
+  {
+    "Temp_id": "TEMP003",
+    "Temp_name": "HR Template",
+    "Temp_category": "Human Resources",
+    "Temp_status": "Active",
+    "CreatedBy": ["63c9fb88e0f8f2e9c8a1f1b6"],
+    "TestedBy": "Alice Brown",
+    "Approval_status": "Rejected",
+    "FilePath": "./Zipped_templates/Css-Template--main.zip",
+    "templateUrl": "./Preview_Templates/legion",
+    "usePort": 3000,
+    "CompletedDate": "2024-11-23T14:50:00.000Z",
+    "ApprovedDate": "2024-11-25T10:20:00.000Z",
+    "createdAt": "2024-11-18T07:10:00.000Z",
+    "updatedAt": "2024-11-26T12:00:00.000Z"
+  }
+]

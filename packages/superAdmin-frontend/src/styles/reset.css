@@ -1,0 +1,31 @@
+.remember{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    box-sizing: border-box;
+}
+.reset-password-container{
+    font-family: 'poppins';
+    position: absolute;
+    left: 30%;
+    right: 20%;
+    top:25%;
+    padding: 15px;
+    box-sizing: border-box;
+    width:40%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.reset-password-container button{
+
+    border-radius: 10px !important;
+    width: 160px;
+    font-family: 'poppins';
+    box-sizing: border-box;
+    font-size: 14px;
+    background-color: rgb(118, 76, 158);
+
+}
+input{
+    font-family: 'poppins';
+}
